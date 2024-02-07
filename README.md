@@ -1,4 +1,4 @@
-# Proyecto - Simple Hola Mundi
+# Proyecto - Simple Hola Mundo
 
 ## Descripción del Problema
 
