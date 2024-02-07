@@ -1,22 +1,15 @@
-# Proyecto - Calculadora aritmética Simple
+# Proyecto - Simple Hola Mundi
 
 ## Descripción del Problema
 
-Este ejercicio implementa una calculadora aritmética simple (suma, resta, multiplica, divide).
+Este ejercicio simplemente imprime por consola la frase "Hola Mundo".
 
 ## Ejecución
 
 Tu programa debería ejecutarse de la siguiente manera:
 
 ```
-Calculadora aritmetica
-======================
-Introduce el primer operando:12
-Introduce el segundo operando:4
-12+4=16
-12-4=8
-12*4=48
-12/4=3
+
 ```
 
 
@@ -27,13 +20,10 @@ Introduce el segundo operando:4
 title: Calculadora
 ---
 classDiagram
-      class Calculadora
-      Calculadora: -x
-      Calculadora: -y
-      Calculadora: +suma()
-      Calculadora: +resta()
-      Calculadora: +multiplica()
-      Calculadora: +divide()
+      class Principal
+      
+      Principal: +main()
+     
 ```
 [Referencia-Mermaid](https://mermaid.js.org/syntax/classDiagram.html)
 
