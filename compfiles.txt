@@ -1,2 +1,13 @@
+./distancia/principal.java
+./distancia/Distancia.java
+./promedio/principal.java
+./promedio/Promedio.java
+./puntaje/Principal.java
+./puntaje/Puntaje.java
 ./miPrincipal/Principal.java
-./miTest/AppTest.java
+./miPrincipal/Programa.java
+./expresion/Expresion.java
+./expresion/Principal.java
+./triangulo/principal.java
+./triangulo/Triangulo.java
+./triangulo/triangulo.java
