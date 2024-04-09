@@ -1,4 +1,4 @@
-package DIFedad;
+package diferenciaEdades;
 //proposito: Determinar nombre de herman@ mayor
 //autor:angel allembyjerath calderon sandoval
 //fecha:9/04/24
