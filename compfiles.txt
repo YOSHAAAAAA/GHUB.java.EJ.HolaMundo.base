@@ -1,5 +1,7 @@
 ./distancia/principal.java
 ./distancia/Distancia.java
+./diferenciaEdades/principal.java
+./diferenciaEdades/DIFedad.java
 ./calculadora/Calculadora/principal.java
 ./calculadora/Calculadora/Calculadora.java
 ./promedio/principal.java
