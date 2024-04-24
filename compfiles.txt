@@ -13,6 +13,7 @@
 ./promedio/Promedio.java
 ./puntaje/Principal.java
 ./puntaje/Puntaje.java
+./demofor/DemoFor.java
 ./miPrincipal/Principal.java
 ./miPrincipal/Programa.java
 ./expresion/Expresion.java
