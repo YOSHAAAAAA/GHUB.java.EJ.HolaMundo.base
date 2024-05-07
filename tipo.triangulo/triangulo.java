@@ -1,4 +1,4 @@
-package tipoTriangulo;
+
 import java.util.Scanner;
 
 public class triangulo {

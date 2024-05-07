@@ -4,7 +4,7 @@
 ./mayor/Mayor.java
 ./diferenciaEdades/principal.java
 ./diferenciaEdades/DIFedad.java
-./romano/principal.java
+./romano/romano/principal.java
 ./romano/romano/Romano.java
 ./bono/Bono.java
 ./calculadora/Calculadora/principal.java
@@ -22,6 +22,6 @@
 ./vocal/Vocal.java
 ./triangulo/principal.java
 ./triangulo/Triangulo.java
-./triangulo/triangulo.java
+./calificaciones/principal.java
 ./tipo.triangulo/principal.java
 ./tipo.triangulo/triangulo.java
